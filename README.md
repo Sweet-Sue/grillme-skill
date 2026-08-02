@@ -100,5 +100,4 @@ grill-me-codex-skill/
 本项目的核心想法参考了 [RobMitt/grill-me-skill](https://github.com/RobMitt/grill-me-skill)，README 组织方式参考了 [Jekudy/grillme-skill](https://github.com/Jekudy/grillme-skill)，并针对 Codex、本地技能发现和中文使用场景进行了改写。
 
 ## 许可
-
-当前发布包没有附加开源许可证。公开发布前，请确认参考项目的授权条件，并根据你的发布意图选择合适的 `LICENSE`。
+MIT许可证
