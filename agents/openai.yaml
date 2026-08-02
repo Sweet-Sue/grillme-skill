@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me 中文版"
+  short_description: "用中文逐题追问计划与设计，直到目标、风险和验收标准明确"
+  default_prompt: "使用 $grill-me 用中文逐题检查我的计划，直到关键决策明确。"
